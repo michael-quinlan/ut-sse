@@ -1,0 +1,37 @@
+10
+
+dir
+3
+http://ut-sse.googlecode.com/svn/branches/development/examples/particleFilter/external/glut
+http://ut-sse.googlecode.com/svn
+
+
+
+2010-03-26T16:33:59.603234Z
+2
+michael.quinlan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a5d159c9-e62b-e975-dc5d-d06c6f4a4e47
+
+include
+dir
+
+lib_x64
+dir
+
+lib_x86
+dir
+
