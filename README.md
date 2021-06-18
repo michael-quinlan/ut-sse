@@ -10,7 +10,7 @@ October 2009.
 See README.txt in each directory for usage information.
 
 ### SSE Wrapper Library ###
-The is designed to be a lightweight SSE wrapper library. Primarily it was designed to provide SSE operators that are useful in robotics, such as sin,cos,atan,atan2,exp,abs etc. The SSE operations achieve up to a 4x speed up over the standard C++ operators.
+This is designed to be a lightweight SSE wrapper library. Primarily it was designed to provide SSE operators that are useful in robotics, such as sin,cos,atan,atan2,exp,abs etc. The SSE operations achieve up to a 4x speed up over the standard C++ operators.
 
 | Function | Scalar (sec) | SSE (sec) | Speedup | 
 |-------------|:-----------------|:--------------:|:------------:| 
